@@ -1,11 +1,11 @@
 # Publishes the static site in site/ to GitHub Pages.
 # There is no build step: the folder is uploaded as it is.
-# Runs on every push to main (and to the current default branch), and by hand from the Actions tab.
+# Runs on every push to main, and by hand from the Actions tab.
 name: Deploy site to GitHub Pages
 
 on:
   push:
-    branches: [main, claude/project-thread-6uj9ac]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
