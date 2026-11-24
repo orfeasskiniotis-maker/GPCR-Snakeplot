@@ -1,0 +1,3872 @@
+[
+ {
+  "entry": "hcar1_human",
+  "name": "HCA1 receptor",
+  "gene": "HCAR1",
+  "accession": "Q9BXC0",
+  "family": "Hydroxycarboxylic acid receptors",
+  "ligand_type": "Alicarboxylic acid receptors",
+  "class": "A",
+  "mean_plddt": 80.94
+ },
+ {
+  "entry": "hcar2_human",
+  "name": "HCA2 receptor",
+  "gene": "HCAR2",
+  "accession": "Q8TDS4",
+  "family": "Hydroxycarboxylic acid receptors",
+  "ligand_type": "Alicarboxylic acid receptors",
+  "class": "A",
+  "mean_plddt": 82.75
+ },
+ {
+  "entry": "hcar3_human",
+  "name": "HCA3 receptor",
+  "gene": "HCAR3",
+  "accession": "P49019",
+  "family": "Hydroxycarboxylic acid receptors",
+  "ligand_type": "Alicarboxylic acid receptors",
+  "class": "A",
+  "mean_plddt": 79.19
+ },
+ {
+  "entry": "oxgr1_human",
+  "name": "oxoglutarate receptor",
+  "gene": "OXGR1",
+  "accession": "Q96P68",
+  "family": "Oxoglutarate receptors",
+  "ligand_type": "Alicarboxylic acid receptors",
+  "class": "A",
+  "mean_plddt": 86.38
+ },
+ {
+  "entry": "sucr1_human",
+  "name": "succinate receptor",
+  "gene": "SUCNR1",
+  "accession": "Q9BXA5",
+  "family": "Succinate receptors",
+  "ligand_type": "Alicarboxylic acid receptors",
+  "class": "A",
+  "mean_plddt": 87.56
+ },
+ {
+  "entry": "5ht1a_human",
+  "name": "5-HT1A receptor",
+  "gene": "HTR1A",
+  "accession": "P08908",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 77.81
+ },
+ {
+  "entry": "5ht1b_human",
+  "name": "5-HT1B receptor",
+  "gene": "HTR1B",
+  "accession": "P28222",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 79.19
+ },
+ {
+  "entry": "5ht1d_human",
+  "name": "5-HT1D receptor",
+  "gene": "HTR1D",
+  "accession": "P28221",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 78.94
+ },
+ {
+  "entry": "5ht1e_human",
+  "name": "5-HT1E receptor",
+  "gene": "HTR1E",
+  "accession": "P28566",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 78.44
+ },
+ {
+  "entry": "5ht1f_human",
+  "name": "5-HT1F receptor",
+  "gene": "HTR1F",
+  "accession": "P30939",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 83.38
+ },
+ {
+  "entry": "5ht2a_human",
+  "name": "5-HT2A receptor",
+  "gene": "HTR2A",
+  "accession": "P28223",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 73.75
+ },
+ {
+  "entry": "5ht2b_human",
+  "name": "5-HT2B receptor",
+  "gene": "HTR2B",
+  "accession": "P41595",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 71.56
+ },
+ {
+  "entry": "5ht2c_human",
+  "name": "5-HT2C receptor",
+  "gene": "HTR2C",
+  "accession": "P28335",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 73.56
+ },
+ {
+  "entry": "5ht4r_human",
+  "name": "5-HT4 receptor",
+  "gene": "HTR4",
+  "accession": "Q13639",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 80.88
+ },
+ {
+  "entry": "5ht5a_human",
+  "name": "5-HT5A receptor",
+  "gene": "HTR5A",
+  "accession": "P47898",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 79.62
+ },
+ {
+  "entry": "5ht6r_human",
+  "name": "5-HT6 receptor",
+  "gene": "HTR6",
+  "accession": "P50406",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 72.62
+ },
+ {
+  "entry": "5ht7r_human",
+  "name": "5-HT7 receptor",
+  "gene": "HTR7",
+  "accession": "P34969",
+  "family": "5-Hydroxytryptamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 73.31
+ },
+ {
+  "entry": "acm1_human",
+  "name": "M1 receptor",
+  "gene": "CHRM1",
+  "accession": "P11229",
+  "family": "Acetylcholine receptors (muscarinic)",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 74.69
+ },
+ {
+  "entry": "acm2_human",
+  "name": "M2 receptor",
+  "gene": "CHRM2",
+  "accession": "P08172",
+  "family": "Acetylcholine receptors (muscarinic)",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 72.06
+ },
+ {
+  "entry": "acm3_human",
+  "name": "M3 receptor",
+  "gene": "CHRM3",
+  "accession": "P20309",
+  "family": "Acetylcholine receptors (muscarinic)",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 66.69
+ },
+ {
+  "entry": "acm4_human",
+  "name": "M4 receptor",
+  "gene": "CHRM4",
+  "accession": "P08173",
+  "family": "Acetylcholine receptors (muscarinic)",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 75.38
+ },
+ {
+  "entry": "acm5_human",
+  "name": "M5 receptor",
+  "gene": "CHRM5",
+  "accession": "P08912",
+  "family": "Acetylcholine receptors (muscarinic)",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 68.62
+ },
+ {
+  "entry": "ada1a_human",
+  "name": "α1A-adrenoceptor",
+  "gene": "ADRA1A",
+  "accession": "P35348",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 70.31
+ },
+ {
+  "entry": "ada1b_human",
+  "name": "α1B-adrenoceptor",
+  "gene": "ADRA1B",
+  "accession": "P35368",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 67.38
+ },
+ {
+  "entry": "ada1d_human",
+  "name": "α1D-adrenoceptor",
+  "gene": "ADRA1D",
+  "accession": "P25100",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 64.81
+ },
+ {
+  "entry": "ada2a_human",
+  "name": "α2A-adrenoceptor",
+  "gene": "ADRA2A",
+  "accession": "P08913",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 70.19
+ },
+ {
+  "entry": "ada2b_human",
+  "name": "α2B-adrenoceptor",
+  "gene": "ADRA2B",
+  "accession": "P18089",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 71.56
+ },
+ {
+  "entry": "ada2c_human",
+  "name": "α2C-adrenoceptor",
+  "gene": "ADRA2C",
+  "accession": "P18825",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 72.81
+ },
+ {
+  "entry": "adrb1_human",
+  "name": "β1-adrenoceptor",
+  "gene": "ADRB1",
+  "accession": "P08588",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 75.31
+ },
+ {
+  "entry": "adrb2_human",
+  "name": "β2-adrenoceptor",
+  "gene": "ADRB2",
+  "accession": "P07550",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 79.12
+ },
+ {
+  "entry": "adrb3_human",
+  "name": "β3-adrenoceptor",
+  "gene": "ADRB3",
+  "accession": "P13945",
+  "family": "Adrenoceptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 78.94
+ },
+ {
+  "entry": "drd1_human",
+  "name": "D1 receptor",
+  "gene": "DRD1",
+  "accession": "P21728",
+  "family": "Dopamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 72.44
+ },
+ {
+  "entry": "drd2_human",
+  "name": "D2 receptor",
+  "gene": "DRD2",
+  "accession": "P14416",
+  "family": "Dopamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 72.44
+ },
+ {
+  "entry": "drd3_human",
+  "name": "D3 receptor",
+  "gene": "DRD3",
+  "accession": "P35462",
+  "family": "Dopamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 75.38
+ },
+ {
+  "entry": "drd4_human",
+  "name": "D4 receptor",
+  "gene": "DRD4",
+  "accession": "P21917",
+  "family": "Dopamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 77.12
+ },
+ {
+  "entry": "drd5_human",
+  "name": "D5 receptor",
+  "gene": "DRD5",
+  "accession": "P21918",
+  "family": "Dopamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 69.12
+ },
+ {
+  "entry": "hrh1_human",
+  "name": "H1 receptor",
+  "gene": "HRH1",
+  "accession": "P35367",
+  "family": "Histamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 69.94
+ },
+ {
+  "entry": "hrh2_human",
+  "name": "H2 receptor",
+  "gene": "HRH2",
+  "accession": "P25021",
+  "family": "Histamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 82.94
+ },
+ {
+  "entry": "hrh3_human",
+  "name": "H3 receptor",
+  "gene": "HRH3",
+  "accession": "Q9Y5N1",
+  "family": "Histamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 75.56
+ },
+ {
+  "entry": "hrh4_human",
+  "name": "H4 receptor",
+  "gene": "HRH4",
+  "accession": "Q9H3N8",
+  "family": "Histamine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 76.31
+ },
+ {
+  "entry": "taar1_human",
+  "name": "TA1 receptor",
+  "gene": "TAAR1",
+  "accession": "Q96RJ0",
+  "family": "Trace amine receptors",
+  "ligand_type": "Aminergic receptors",
+  "class": "A",
+  "mean_plddt": 90.06
+ },
+ {
+  "entry": "cnr1_human",
+  "name": "CB1 receptor",
+  "gene": "CNR1",
+  "accession": "P21554",
+  "family": "Cannabinoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 71.69
+ },
+ {
+  "entry": "cnr2_human",
+  "name": "CB2 receptor",
+  "gene": "CNR2",
+  "accession": "P34972",
+  "family": "Cannabinoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 84.44
+ },
+ {
+  "entry": "ffar1_human",
+  "name": "FFA1 receptor",
+  "gene": "FFAR1",
+  "accession": "O14842",
+  "family": "Free fatty acid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 89.75
+ },
+ {
+  "entry": "ffar2_human",
+  "name": "FFA2 receptor",
+  "gene": "FFAR2",
+  "accession": "O15552",
+  "family": "Free fatty acid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 88.06
+ },
+ {
+  "entry": "ffar3_human",
+  "name": "FFA3 receptor",
+  "gene": "FFAR3",
+  "accession": "O14843",
+  "family": "Free fatty acid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 86.38
+ },
+ {
+  "entry": "ffar4_human",
+  "name": "FFA4 receptor",
+  "gene": "FFAR4",
+  "accession": "Q5NUL3",
+  "family": "Free fatty acid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 79.31
+ },
+ {
+  "entry": "gpr42_human",
+  "name": "GPR42",
+  "gene": "GPR42",
+  "accession": "O15529",
+  "family": "Free fatty acid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 87.06
+ },
+ {
+  "entry": "gp119_human",
+  "name": "GPR119",
+  "gene": "GPR119",
+  "accession": "Q8TDV5",
+  "family": "GPR18, GPR55 and GPR119",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 86.75
+ },
+ {
+  "entry": "gpr18_human",
+  "name": "GPR18",
+  "gene": "GPR18",
+  "accession": "Q14330",
+  "family": "GPR18, GPR55 and GPR119",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 86.31
+ },
+ {
+  "entry": "gpr55_human",
+  "name": "GPR55",
+  "gene": "GPR55",
+  "accession": "Q9Y2T6",
+  "family": "GPR18, GPR55 and GPR119",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 87.38
+ },
+ {
+  "entry": "cltr1_human",
+  "name": "CysLT1 receptor",
+  "gene": "CYSLTR1",
+  "accession": "Q9Y271",
+  "family": "Leukotriene receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 85.62
+ },
+ {
+  "entry": "cltr2_human",
+  "name": "CysLT2 receptor",
+  "gene": "CYSLTR2",
+  "accession": "Q9NS75",
+  "family": "Leukotriene receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 84.5
+ },
+ {
+  "entry": "lt4r1_human",
+  "name": "BLT1 receptor",
+  "gene": "LTB4R",
+  "accession": "Q15722",
+  "family": "Leukotriene receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 81.38
+ },
+ {
+  "entry": "lt4r2_human",
+  "name": "BLT2 receptor",
+  "gene": "LTB4R2",
+  "accession": "Q9NPC1",
+  "family": "Leukotriene receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 81.12
+ },
+ {
+  "entry": "oxer1_human",
+  "name": "OXE receptor",
+  "gene": "OXER1",
+  "accession": "Q8TDS5",
+  "family": "Leukotriene receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 81.69
+ },
+ {
+  "entry": "lpar1_human",
+  "name": "LPA1 receptor",
+  "gene": "LPAR1",
+  "accession": "Q92633",
+  "family": "Lysophospholipid (LPA) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 83.62
+ },
+ {
+  "entry": "lpar2_human",
+  "name": "LPA2 receptor",
+  "gene": "LPAR2",
+  "accession": "Q9HBW0",
+  "family": "Lysophospholipid (LPA) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 85.56
+ },
+ {
+  "entry": "lpar3_human",
+  "name": "LPA3 receptor",
+  "gene": "LPAR3",
+  "accession": "Q9UBY5",
+  "family": "Lysophospholipid (LPA) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 81.44
+ },
+ {
+  "entry": "lpar4_human",
+  "name": "LPA4 receptor",
+  "gene": "LPAR4",
+  "accession": "Q99677",
+  "family": "Lysophospholipid (LPA) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 82.56
+ },
+ {
+  "entry": "lpar5_human",
+  "name": "LPA5 receptor",
+  "gene": "LPAR5",
+  "accession": "Q9H1C0",
+  "family": "Lysophospholipid (LPA) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 84.0
+ },
+ {
+  "entry": "lpar6_human",
+  "name": "LPA6 receptor",
+  "gene": "LPAR6",
+  "accession": "P43657",
+  "family": "Lysophospholipid (LPA) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 84.44
+ },
+ {
+  "entry": "s1pr1_human",
+  "name": "S1P1 receptor",
+  "gene": "S1PR1",
+  "accession": "P21453",
+  "family": "Lysophospholipid (S1P) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 81.0
+ },
+ {
+  "entry": "s1pr2_human",
+  "name": "S1P2 receptor",
+  "gene": "S1PR2",
+  "accession": "O95136",
+  "family": "Lysophospholipid (S1P) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 82.56
+ },
+ {
+  "entry": "s1pr3_human",
+  "name": "S1P3 receptor",
+  "gene": "S1PR3",
+  "accession": "Q99500",
+  "family": "Lysophospholipid (S1P) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 79.31
+ },
+ {
+  "entry": "s1pr4_human",
+  "name": "S1P4 receptor",
+  "gene": "S1PR4",
+  "accession": "O95977",
+  "family": "Lysophospholipid (S1P) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 78.38
+ },
+ {
+  "entry": "s1pr5_human",
+  "name": "S1P5 receptor",
+  "gene": "S1PR5",
+  "accession": "Q9H228",
+  "family": "Lysophospholipid (S1P) receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 77.75
+ },
+ {
+  "entry": "ptafr_human",
+  "name": "PAF receptor",
+  "gene": "PTAFR",
+  "accession": "P25105",
+  "family": "Platelet-activating factor receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 86.5
+ },
+ {
+  "entry": "pd2r_human",
+  "name": "DP1 receptor",
+  "gene": "PTGDR",
+  "accession": "Q13258",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 79.38
+ },
+ {
+  "entry": "pd2r2_human",
+  "name": "DP2 receptor",
+  "gene": "PTGDR2",
+  "accession": "Q9Y5Y4",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 81.0
+ },
+ {
+  "entry": "pe2r1_human",
+  "name": "EP1 receptor",
+  "gene": "PTGER1",
+  "accession": "P34995",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 74.81
+ },
+ {
+  "entry": "pe2r2_human",
+  "name": "EP2 receptor",
+  "gene": "PTGER2",
+  "accession": "P43116",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 77.56
+ },
+ {
+  "entry": "pe2r3_human",
+  "name": "EP3 receptor",
+  "gene": "PTGER3",
+  "accession": "P43115",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 76.06
+ },
+ {
+  "entry": "pe2r4_human",
+  "name": "EP4 receptor",
+  "gene": "PTGER4",
+  "accession": "P35408",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 70.88
+ },
+ {
+  "entry": "pf2r_human",
+  "name": "FP receptor",
+  "gene": "PTGFR",
+  "accession": "P43088",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 80.56
+ },
+ {
+  "entry": "pi2r_human",
+  "name": "IP receptor",
+  "gene": "PTGIR",
+  "accession": "P43119",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 76.19
+ },
+ {
+  "entry": "ta2r_human",
+  "name": "TP receptor",
+  "gene": "TBXA2R",
+  "accession": "P21731",
+  "family": "Prostanoid receptors",
+  "ligand_type": "Lipid receptors",
+  "class": "A",
+  "mean_plddt": 86.25
+ },
+ {
+  "entry": "mtr1a_human",
+  "name": "MT1 receptor",
+  "gene": "MTNR1A",
+  "accession": "P48039",
+  "family": "Melatonin",
+  "ligand_type": "Melatonin receptors",
+  "class": "A",
+  "mean_plddt": 85.75
+ },
+ {
+  "entry": "mtr1b_human",
+  "name": "MT2 receptor",
+  "gene": "MTNR1B",
+  "accession": "P49286",
+  "family": "Melatonin",
+  "ligand_type": "Melatonin receptors",
+  "class": "A",
+  "mean_plddt": 84.0
+ },
+ {
+  "entry": "aa1r_human",
+  "name": "A1 receptor",
+  "gene": "ADORA1",
+  "accession": "P30542",
+  "family": "Adenosine receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 92.44
+ },
+ {
+  "entry": "aa2ar_human",
+  "name": "A2A receptor",
+  "gene": "ADORA2A",
+  "accession": "P29274",
+  "family": "Adenosine receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 80.38
+ },
+ {
+  "entry": "aa2br_human",
+  "name": "A2B receptor",
+  "gene": "ADORA2B",
+  "accession": "P29275",
+  "family": "Adenosine receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 88.12
+ },
+ {
+  "entry": "aa3r_human",
+  "name": "A3 receptor",
+  "gene": "ADORA3",
+  "accession": "P0DMS8",
+  "family": "Adenosine receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 91.31
+ },
+ {
+  "entry": "p2ry1_human",
+  "name": "P2Y1 receptor",
+  "gene": "P2RY1",
+  "accession": "P47900",
+  "family": "P2Y receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 85.31
+ },
+ {
+  "entry": "p2y11_human",
+  "name": "P2Y11 receptor",
+  "gene": "P2RY11",
+  "accession": "Q96G91",
+  "family": "P2Y receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 80.69
+ },
+ {
+  "entry": "p2y12_human",
+  "name": "P2Y12 receptor",
+  "gene": "P2RY12",
+  "accession": "Q9H244",
+  "family": "P2Y receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 84.44
+ },
+ {
+  "entry": "p2y13_human",
+  "name": "P2Y13 receptor",
+  "gene": "P2RY13",
+  "accession": "Q9BPV8",
+  "family": "P2Y receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 83.06
+ },
+ {
+  "entry": "p2y14_human",
+  "name": "P2Y14 receptor",
+  "gene": "P2RY14",
+  "accession": "Q15391",
+  "family": "P2Y receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 87.12
+ },
+ {
+  "entry": "p2ry2_human",
+  "name": "P2Y2 receptor",
+  "gene": "P2RY2",
+  "accession": "P41231",
+  "family": "P2Y receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 78.88
+ },
+ {
+  "entry": "p2ry4_human",
+  "name": "P2Y4 receptor",
+  "gene": "P2RY4",
+  "accession": "P51582",
+  "family": "P2Y receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 82.56
+ },
+ {
+  "entry": "p2ry6_human",
+  "name": "P2Y6 receptor",
+  "gene": "P2RY6",
+  "accession": "Q15077",
+  "family": "P2Y receptors",
+  "ligand_type": "Nucleotide receptors",
+  "class": "A",
+  "mean_plddt": 85.94
+ },
+ {
+  "entry": "gp101_human",
+  "name": "GPR101",
+  "gene": "GPR101",
+  "accession": "Q96P66",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 68.75
+ },
+ {
+  "entry": "gpr12_human",
+  "name": "GPR12",
+  "gene": "GPR12",
+  "accession": "P47775",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 84.25
+ },
+ {
+  "entry": "gp135_human",
+  "name": "GPR135",
+  "gene": "GPR135",
+  "accession": "Q8IZ08",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 67.38
+ },
+ {
+  "entry": "gp139_human",
+  "name": "GPR139",
+  "gene": "GPR139",
+  "accession": "Q6DWJ6",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 77.75
+ },
+ {
+  "entry": "gp141_human",
+  "name": "GPR141",
+  "gene": "GPR141",
+  "accession": "Q7Z602",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 81.62
+ },
+ {
+  "entry": "gp142_human",
+  "name": "GPR142",
+  "gene": "GPR142",
+  "accession": "Q7Z601",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 63.66
+ },
+ {
+  "entry": "gp146_human",
+  "name": "GPR146",
+  "gene": "GPR146",
+  "accession": "Q96CH1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 78.06
+ },
+ {
+  "entry": "gp148_human",
+  "name": "GPR148",
+  "gene": "GPR148",
+  "accession": "Q8TDV2",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 72.75
+ },
+ {
+  "entry": "gp149_human",
+  "name": "GPR149",
+  "gene": "GPR149",
+  "accession": "Q86SP6",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 53.97
+ },
+ {
+  "entry": "gpr15_human",
+  "name": "GPR15",
+  "gene": "GPR15",
+  "accession": "P49685",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 81.88
+ },
+ {
+  "entry": "gp150_human",
+  "name": "GPR150",
+  "gene": "GPR150",
+  "accession": "Q8NGU9",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 70.81
+ },
+ {
+  "entry": "gp151_human",
+  "name": "GPR151",
+  "gene": "GPR151",
+  "accession": "Q8TDV0",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 78.06
+ },
+ {
+  "entry": "gp152_human",
+  "name": "GPR152",
+  "gene": "GPR152",
+  "accession": "Q8TDT2",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 70.81
+ },
+ {
+  "entry": "gp153_human",
+  "name": "GPR153",
+  "gene": "GPR153",
+  "accession": "Q6NV75",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 65.12
+ },
+ {
+  "entry": "gp160_human",
+  "name": "GPR160",
+  "gene": "GPR160",
+  "accession": "Q9UJ42",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 76.5
+ },
+ {
+  "entry": "gp161_human",
+  "name": "GPR161",
+  "gene": "GPR161",
+  "accession": "Q8N6U8",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 68.62
+ },
+ {
+  "entry": "gp162_human",
+  "name": "GPR162",
+  "gene": "GPR162",
+  "accession": "Q16538",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 63.97
+ },
+ {
+  "entry": "gpr17_human",
+  "name": "GPR17",
+  "gene": "GPR17",
+  "accession": "Q13304",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 80.31
+ },
+ {
+  "entry": "gp171_human",
+  "name": "GPR171",
+  "gene": "GPR171",
+  "accession": "O14626",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 87.69
+ },
+ {
+  "entry": "gp173_human",
+  "name": "GPR173",
+  "gene": "GPR173",
+  "accession": "Q9NS66",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 81.25
+ },
+ {
+  "entry": "gp174_human",
+  "name": "GPR174",
+  "gene": "GPR174",
+  "accession": "Q9BXC1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 84.12
+ },
+ {
+  "entry": "gp176_human",
+  "name": "GPR176",
+  "gene": "GPR176",
+  "accession": "Q14439",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 66.44
+ },
+ {
+  "entry": "gp182_human",
+  "name": "GPR182",
+  "gene": "GPR182",
+  "accession": "O15218",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 78.56
+ },
+ {
+  "entry": "gp183_human",
+  "name": "GPR183",
+  "gene": "GPR183",
+  "accession": "P32249",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 86.56
+ },
+ {
+  "entry": "gpr19_human",
+  "name": "GPR19",
+  "gene": "GPR19",
+  "accession": "Q15760",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 74.44
+ },
+ {
+  "entry": "gpr20_human",
+  "name": "GPR20",
+  "gene": "GPR20",
+  "accession": "Q99678",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 78.88
+ },
+ {
+  "entry": "gpr21_human",
+  "name": "GPR21",
+  "gene": "GPR21",
+  "accession": "Q99679",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 83.12
+ },
+ {
+  "entry": "gpr22_human",
+  "name": "GPR22",
+  "gene": "GPR22",
+  "accession": "Q99680",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 72.38
+ },
+ {
+  "entry": "gpr25_human",
+  "name": "GPR25",
+  "gene": "GPR25",
+  "accession": "O00155",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 82.44
+ },
+ {
+  "entry": "gpr26_human",
+  "name": "GPR26",
+  "gene": "GPR26",
+  "accession": "Q8NDV2",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 91.0
+ },
+ {
+  "entry": "gpr27_human",
+  "name": "GPR27",
+  "gene": "GPR27",
+  "accession": "Q9NS67",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 78.69
+ },
+ {
+  "entry": "gpr3_human",
+  "name": "GPR3",
+  "gene": "GPR3",
+  "accession": "P46089",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 81.81
+ },
+ {
+  "entry": "gpr31_human",
+  "name": "GPR31",
+  "gene": "GPR31",
+  "accession": "O00270",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 83.19
+ },
+ {
+  "entry": "gpr32_human",
+  "name": "GPR32",
+  "gene": "GPR32",
+  "accession": "O75388",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 80.75
+ },
+ {
+  "entry": "gpr33_human",
+  "name": "GPR33",
+  "gene": "GPR33",
+  "accession": "Q49SQ1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 87.56
+ },
+ {
+  "entry": "gpr34_human",
+  "name": "GPR34",
+  "gene": "GPR34",
+  "accession": "Q9UPC5",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 77.5
+ },
+ {
+  "entry": "gpr35_human",
+  "name": "GPR35",
+  "gene": "GPR35",
+  "accession": "Q9HC97",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 84.38
+ },
+ {
+  "entry": "gpr37_human",
+  "name": "GPR37",
+  "gene": "GPR37",
+  "accession": "O15354",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 61.88
+ },
+ {
+  "entry": "g37l1_human",
+  "name": "GPR37L1",
+  "gene": "GPR37L1",
+  "accession": "O60883",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 67.75
+ },
+ {
+  "entry": "gpr39_human",
+  "name": "GPR39",
+  "gene": "GPR39",
+  "accession": "O43194",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 76.06
+ },
+ {
+  "entry": "gpr45_human",
+  "name": "GPR45",
+  "gene": "GPR45",
+  "accession": "Q9Y5Y3",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 83.31
+ },
+ {
+  "entry": "mtr1l_human",
+  "name": "GPR50",
+  "gene": "GPR50",
+  "accession": "Q13585",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 66.25
+ },
+ {
+  "entry": "gpr52_human",
+  "name": "GPR52",
+  "gene": "GPR52",
+  "accession": "Q9Y2T5",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 81.75
+ },
+ {
+  "entry": "gpr6_human",
+  "name": "GPR6",
+  "gene": "GPR6",
+  "accession": "P46095",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 77.56
+ },
+ {
+  "entry": "gpr61_human",
+  "name": "GPR61",
+  "gene": "GPR61",
+  "accession": "Q9BZJ8",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 69.25
+ },
+ {
+  "entry": "gpr62_human",
+  "name": "GPR62",
+  "gene": "GPR62",
+  "accession": "Q9BZJ7",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 76.56
+ },
+ {
+  "entry": "gpr63_human",
+  "name": "GPR63",
+  "gene": "GPR63",
+  "accession": "Q9BZJ6",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 75.0
+ },
+ {
+  "entry": "gpr75_human",
+  "name": "GPR75",
+  "gene": "GPR75",
+  "accession": "O95800",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 63.94
+ },
+ {
+  "entry": "gpr78_human",
+  "name": "GPR78",
+  "gene": "GPR78",
+  "accession": "Q96P69",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 84.62
+ },
+ {
+  "entry": "gpr82_human",
+  "name": "GPR82",
+  "gene": "GPR82",
+  "accession": "Q96P67",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 84.19
+ },
+ {
+  "entry": "gpr83_human",
+  "name": "GPR83",
+  "gene": "GPR83",
+  "accession": "Q9NYM4",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 76.0
+ },
+ {
+  "entry": "gpr84_human",
+  "name": "GPR84",
+  "gene": "GPR84",
+  "accession": "Q9NQS5",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 80.69
+ },
+ {
+  "entry": "gpr85_human",
+  "name": "GPR85",
+  "gene": "GPR85",
+  "accession": "P60893",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 82.62
+ },
+ {
+  "entry": "gpr87_human",
+  "name": "GPR87",
+  "gene": "GPR87",
+  "accession": "Q9BY21",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 81.88
+ },
+ {
+  "entry": "gpr88_human",
+  "name": "GPR88",
+  "gene": "GPR88",
+  "accession": "Q9GZN0",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 75.81
+ },
+ {
+  "entry": "lgr4_human",
+  "name": "LGR4",
+  "gene": "LGR4",
+  "accession": "Q9BXB1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 78.81
+ },
+ {
+  "entry": "lgr5_human",
+  "name": "LGR5",
+  "gene": "LGR5",
+  "accession": "O75473",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 80.25
+ },
+ {
+  "entry": "lgr6_human",
+  "name": "LGR6",
+  "gene": "LGR6",
+  "accession": "Q9HBX8",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 77.38
+ },
+ {
+  "entry": "mas_human",
+  "name": "MAS1",
+  "gene": "MAS1",
+  "accession": "P04201",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 83.5
+ },
+ {
+  "entry": "mas1l_human",
+  "name": "MAS1L",
+  "gene": "MAS1L",
+  "accession": "P35410",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 66.88
+ },
+ {
+  "entry": "mrgrd_human",
+  "name": "MRGPRD",
+  "gene": "MRGPRD",
+  "accession": "Q8TDS7",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 85.44
+ },
+ {
+  "entry": "mrgre_human",
+  "name": "MRGPRE",
+  "gene": "MRGPRE",
+  "accession": "Q86SM8",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 85.25
+ },
+ {
+  "entry": "mrgrf_human",
+  "name": "MRGPRF",
+  "gene": "MRGPRF",
+  "accession": "Q96AM1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 79.94
+ },
+ {
+  "entry": "mrgrg_human",
+  "name": "MRGPRG",
+  "gene": "MRGPRG",
+  "accession": "Q86SM5",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 86.06
+ },
+ {
+  "entry": "mrgx1_human",
+  "name": "MRGPRX1",
+  "gene": "MRGPRX1",
+  "accession": "Q96LB2",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 82.81
+ },
+ {
+  "entry": "mrgx2_human",
+  "name": "MRGPRX2",
+  "gene": "MRGPRX2",
+  "accession": "Q96LB1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 81.69
+ },
+ {
+  "entry": "mrgx3_human",
+  "name": "MRGPRX3",
+  "gene": "MRGPRX3",
+  "accession": "Q96LB0",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 82.0
+ },
+ {
+  "entry": "mrgx4_human",
+  "name": "MRGPRX4",
+  "gene": "MRGPRX4",
+  "accession": "Q96LA9",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 81.44
+ },
+ {
+  "entry": "p2y10_human",
+  "name": "P2RY10",
+  "gene": "P2RY10",
+  "accession": "O00398",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 83.81
+ },
+ {
+  "entry": "p2ry8_human",
+  "name": "P2RY8",
+  "gene": "P2RY8",
+  "accession": "Q86VZ1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 84.25
+ },
+ {
+  "entry": "taar2_human",
+  "name": "TAAR2",
+  "gene": "TAAR2",
+  "accession": "Q9P1P5",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 88.12
+ },
+ {
+  "entry": "taar3_human",
+  "name": "TAAR3",
+  "gene": "TAAR3P",
+  "accession": "Q9P1P4",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 82.88
+ },
+ {
+  "entry": "taar5_human",
+  "name": "TAAR5",
+  "gene": "TAAR5",
+  "accession": "O14804",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 85.19
+ },
+ {
+  "entry": "taar6_human",
+  "name": "TAAR6",
+  "gene": "TAAR6",
+  "accession": "Q96RI8",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 90.69
+ },
+ {
+  "entry": "taar8_human",
+  "name": "TAAR8",
+  "gene": "TAAR8",
+  "accession": "Q969N4",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 91.19
+ },
+ {
+  "entry": "taar9_human",
+  "name": "TAAR9",
+  "gene": "TAAR9",
+  "accession": "Q96RI9",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "A",
+  "mean_plddt": 90.38
+ },
+ {
+  "entry": "agtr1_human",
+  "name": "AT1 receptor",
+  "gene": "AGTR1",
+  "accession": "P30556",
+  "family": "Angiotensin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 82.31
+ },
+ {
+  "entry": "agtr2_human",
+  "name": "AT2 receptor",
+  "gene": "AGTR2",
+  "accession": "P50052",
+  "family": "Angiotensin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 82.0
+ },
+ {
+  "entry": "apj_human",
+  "name": "apelin receptor",
+  "gene": "APLNR",
+  "accession": "P35414",
+  "family": "Apelin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.69
+ },
+ {
+  "entry": "brs3_human",
+  "name": "BB3 receptor",
+  "gene": "BRS3",
+  "accession": "P32247",
+  "family": "Bombesin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.94
+ },
+ {
+  "entry": "grpr_human",
+  "name": "BB2 receptor",
+  "gene": "GRPR",
+  "accession": "P30550",
+  "family": "Bombesin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.5
+ },
+ {
+  "entry": "nmbr_human",
+  "name": "BB1 receptor",
+  "gene": "NMBR",
+  "accession": "P28336",
+  "family": "Bombesin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 79.31
+ },
+ {
+  "entry": "bkrb1_human",
+  "name": "B1 receptor",
+  "gene": "BDKRB1",
+  "accession": "P46663",
+  "family": "Bradykinin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 85.12
+ },
+ {
+  "entry": "bkrb2_human",
+  "name": "B2 receptor",
+  "gene": "BDKRB2",
+  "accession": "P30411",
+  "family": "Bradykinin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 79.5
+ },
+ {
+  "entry": "cckar_human",
+  "name": "CCK1 receptor",
+  "gene": "CCKAR",
+  "accession": "P32238",
+  "family": "Cholecystokinin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 77.69
+ },
+ {
+  "entry": "gasr_human",
+  "name": "CCK2 receptor",
+  "gene": "CCKBR",
+  "accession": "P32239",
+  "family": "Cholecystokinin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 75.75
+ },
+ {
+  "entry": "c3ar_human",
+  "name": "C3a receptor",
+  "gene": "C3AR1",
+  "accession": "Q16581",
+  "family": "Complement peptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 68.81
+ },
+ {
+  "entry": "c5ar1_human",
+  "name": "C5a1 receptor",
+  "gene": "C5AR1",
+  "accession": "P21730",
+  "family": "Complement peptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 85.75
+ },
+ {
+  "entry": "c5ar2_human",
+  "name": "C5a2 receptor",
+  "gene": "C5AR2",
+  "accession": "Q9P296",
+  "family": "Complement peptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 86.5
+ },
+ {
+  "entry": "ednra_human",
+  "name": "ETA receptor",
+  "gene": "EDNRA",
+  "accession": "P25101",
+  "family": "Endothelin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 74.38
+ },
+ {
+  "entry": "ednrb_human",
+  "name": "ETB receptor",
+  "gene": "EDNRB",
+  "accession": "P24530",
+  "family": "Endothelin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 75.0
+ },
+ {
+  "entry": "fpr1_human",
+  "name": "FPR1",
+  "gene": "FPR1",
+  "accession": "P21462",
+  "family": "Formylpeptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 83.81
+ },
+ {
+  "entry": "fpr2_human",
+  "name": "FPR2/ALX",
+  "gene": "FPR2",
+  "accession": "P25090",
+  "family": "Formylpeptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 84.81
+ },
+ {
+  "entry": "fpr3_human",
+  "name": "FPR3",
+  "gene": "FPR3",
+  "accession": "P25089",
+  "family": "Formylpeptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 83.38
+ },
+ {
+  "entry": "galr1_human",
+  "name": "GAL1 receptor",
+  "gene": "GALR1",
+  "accession": "P47211",
+  "family": "Galanin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 83.81
+ },
+ {
+  "entry": "galr2_human",
+  "name": "GAL2 receptor",
+  "gene": "GALR2",
+  "accession": "O43603",
+  "family": "Galanin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 77.94
+ },
+ {
+  "entry": "galr3_human",
+  "name": "GAL3 receptor",
+  "gene": "GALR3",
+  "accession": "O60755",
+  "family": "Galanin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.0
+ },
+ {
+  "entry": "ghsr_human",
+  "name": "ghrelin receptor",
+  "gene": "GHSR",
+  "accession": "Q92847",
+  "family": "Ghrelin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.62
+ },
+ {
+  "entry": "gnrhr_human",
+  "name": "GnRH1 receptor",
+  "gene": "GNRHR",
+  "accession": "P30968",
+  "family": "Gonadotrophin-releasing hormone receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 84.19
+ },
+ {
+  "entry": "kissr_human",
+  "name": "kisspeptin receptor",
+  "gene": "KISS1R",
+  "accession": "Q969F8",
+  "family": "Kisspeptin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 75.25
+ },
+ {
+  "entry": "mchr1_human",
+  "name": "MCH1 receptor",
+  "gene": "MCHR1",
+  "accession": "Q99705",
+  "family": "Melanin-concentrating hormone",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 84.44
+ },
+ {
+  "entry": "mchr2_human",
+  "name": "MCH2 receptor",
+  "gene": "MCHR2",
+  "accession": "Q969V1",
+  "family": "Melanin-concentrating hormone",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 88.88
+ },
+ {
+  "entry": "mshr_human",
+  "name": "MC1 receptor",
+  "gene": "MC1R",
+  "accession": "Q01726",
+  "family": "Melanocortin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 80.5
+ },
+ {
+  "entry": "acthr_human",
+  "name": "MC2 receptor",
+  "gene": "MC2R",
+  "accession": "Q01718",
+  "family": "Melanocortin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 85.38
+ },
+ {
+  "entry": "mc3r_human",
+  "name": "MC3 receptor",
+  "gene": "MC3R",
+  "accession": "P41968",
+  "family": "Melanocortin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 83.88
+ },
+ {
+  "entry": "mc4r_human",
+  "name": "MC4 receptor",
+  "gene": "MC4R",
+  "accession": "P32245",
+  "family": "Melanocortin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 80.12
+ },
+ {
+  "entry": "mc5r_human",
+  "name": "MC5 receptor",
+  "gene": "MC5R",
+  "accession": "P33032",
+  "family": "Melanocortin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 82.62
+ },
+ {
+  "entry": "mtlr_human",
+  "name": "motilin receptor",
+  "gene": "MLNR",
+  "accession": "O43193",
+  "family": "Motilin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 77.19
+ },
+ {
+  "entry": "nmur1_human",
+  "name": "NMU1 receptor",
+  "gene": "NMUR1",
+  "accession": "Q9HB89",
+  "family": "Neuromedin U receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 80.56
+ },
+ {
+  "entry": "nmur2_human",
+  "name": "NMU2 receptor",
+  "gene": "NMUR2",
+  "accession": "Q9GZQ4",
+  "family": "Neuromedin U receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 80.0
+ },
+ {
+  "entry": "npff1_human",
+  "name": "NPFF1 receptor",
+  "gene": "NPFFR1",
+  "accession": "Q9GZQ6",
+  "family": "Neuropeptide FF/neuropeptide AF receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 77.56
+ },
+ {
+  "entry": "npff2_human",
+  "name": "NPFF2 receptor",
+  "gene": "NPFFR2",
+  "accession": "Q9Y5X5",
+  "family": "Neuropeptide FF/neuropeptide AF receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 69.38
+ },
+ {
+  "entry": "npsr1_human",
+  "name": "NPS receptor",
+  "gene": "NPSR1",
+  "accession": "Q6W5P4",
+  "family": "Neuropeptide S receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.44
+ },
+ {
+  "entry": "npbw1_human",
+  "name": "NPBW1 receptor",
+  "gene": "NPBWR1",
+  "accession": "P48145",
+  "family": "Neuropeptide W/neuropeptide B receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 83.31
+ },
+ {
+  "entry": "npbw2_human",
+  "name": "NPBW2 receptor",
+  "gene": "NPBWR2",
+  "accession": "P48146",
+  "family": "Neuropeptide W/neuropeptide B receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 82.88
+ },
+ {
+  "entry": "npy1r_human",
+  "name": "Y1 receptor",
+  "gene": "NPY1R",
+  "accession": "P25929",
+  "family": "Neuropeptide Y receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 79.88
+ },
+ {
+  "entry": "npy2r_human",
+  "name": "Y2 receptor",
+  "gene": "NPY2R",
+  "accession": "P49146",
+  "family": "Neuropeptide Y receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 82.5
+ },
+ {
+  "entry": "npy4r_human",
+  "name": "Y4 receptor",
+  "gene": "NPY4R",
+  "accession": "P50391",
+  "family": "Neuropeptide Y receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 80.31
+ },
+ {
+  "entry": "npy5r_human",
+  "name": "Y5 receptor",
+  "gene": "NPY5R",
+  "accession": "Q15761",
+  "family": "Neuropeptide Y receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 75.69
+ },
+ {
+  "entry": "ntr1_human",
+  "name": "NTS1 receptor",
+  "gene": "NTSR1",
+  "accession": "P30989",
+  "family": "Neurotensin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 79.62
+ },
+ {
+  "entry": "ntr2_human",
+  "name": "NTS2 receptor",
+  "gene": "NTSR2",
+  "accession": "O95665",
+  "family": "Neurotensin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.88
+ },
+ {
+  "entry": "oprd_human",
+  "name": "δ receptor",
+  "gene": "OPRD1",
+  "accession": "P41143",
+  "family": "Opioid receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 80.0
+ },
+ {
+  "entry": "oprk_human",
+  "name": "κ receptor",
+  "gene": "OPRK1",
+  "accession": "P41145",
+  "family": "Opioid receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 79.5
+ },
+ {
+  "entry": "oprx_human",
+  "name": "NOP receptor",
+  "gene": "OPRL1",
+  "accession": "P41146",
+  "family": "Opioid receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 82.31
+ },
+ {
+  "entry": "oprm_human",
+  "name": "μ receptor",
+  "gene": "OPRM1",
+  "accession": "P35372",
+  "family": "Opioid receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 76.56
+ },
+ {
+  "entry": "ox1r_human",
+  "name": "OX1 receptor",
+  "gene": "HCRTR1",
+  "accession": "O43613",
+  "family": "Orexin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.81
+ },
+ {
+  "entry": "ox2r_human",
+  "name": "OX2 receptor",
+  "gene": "HCRTR2",
+  "accession": "O43614",
+  "family": "Orexin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.94
+ },
+ {
+  "entry": "prlhr_human",
+  "name": "PrRP receptor",
+  "gene": "PRLHR",
+  "accession": "P49683",
+  "family": "Prolactin-releasing peptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 80.56
+ },
+ {
+  "entry": "par1_human",
+  "name": "PAR1",
+  "gene": "F2R",
+  "accession": "P25116",
+  "family": "Proteinase-activated receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 74.56
+ },
+ {
+  "entry": "par2_human",
+  "name": "PAR2",
+  "gene": "F2RL1",
+  "accession": "P55085",
+  "family": "Proteinase-activated receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 82.06
+ },
+ {
+  "entry": "par3_human",
+  "name": "PAR3",
+  "gene": "F2RL2",
+  "accession": "O00254",
+  "family": "Proteinase-activated receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 76.31
+ },
+ {
+  "entry": "par4_human",
+  "name": "PAR4",
+  "gene": "F2RL3",
+  "accession": "Q96RI0",
+  "family": "Proteinase-activated receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 80.19
+ },
+ {
+  "entry": "qrfpr_human",
+  "name": "QRFP receptor",
+  "gene": "QRFPR",
+  "accession": "Q96P65",
+  "family": "QRFP receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.75
+ },
+ {
+  "entry": "rxfp1_human",
+  "name": "RXFP1",
+  "gene": "RXFP1",
+  "accession": "Q9HBX9",
+  "family": "Relaxin family peptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.12
+ },
+ {
+  "entry": "rxfp2_human",
+  "name": "RXFP2",
+  "gene": "RXFP2",
+  "accession": "Q8WXD0",
+  "family": "Relaxin family peptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.0
+ },
+ {
+  "entry": "rl3r1_human",
+  "name": "RXFP3",
+  "gene": "RXFP3",
+  "accession": "Q9NSD7",
+  "family": "Relaxin family peptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 73.0
+ },
+ {
+  "entry": "rl3r2_human",
+  "name": "RXFP4",
+  "gene": "RXFP4",
+  "accession": "Q8TDU9",
+  "family": "Relaxin family peptide receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.25
+ },
+ {
+  "entry": "ssr1_human",
+  "name": "SST1 receptor",
+  "gene": "SSTR1",
+  "accession": "P30872",
+  "family": "Somatostatin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.81
+ },
+ {
+  "entry": "ssr2_human",
+  "name": "SST2 receptor",
+  "gene": "SSTR2",
+  "accession": "P30874",
+  "family": "Somatostatin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.31
+ },
+ {
+  "entry": "ssr3_human",
+  "name": "SST3 receptor",
+  "gene": "SSTR3",
+  "accession": "P32745",
+  "family": "Somatostatin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 74.56
+ },
+ {
+  "entry": "ssr4_human",
+  "name": "SST4 receptor",
+  "gene": "SSTR4",
+  "accession": "P31391",
+  "family": "Somatostatin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 77.62
+ },
+ {
+  "entry": "ssr5_human",
+  "name": "SST5 receptor",
+  "gene": "SSTR5",
+  "accession": "P35346",
+  "family": "Somatostatin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 81.25
+ },
+ {
+  "entry": "nk1r_human",
+  "name": "NK1 receptor",
+  "gene": "TACR1",
+  "accession": "P25103",
+  "family": "Tachykinin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.38
+ },
+ {
+  "entry": "nk2r_human",
+  "name": "NK2 receptor",
+  "gene": "TACR2",
+  "accession": "P21452",
+  "family": "Tachykinin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 79.75
+ },
+ {
+  "entry": "nk3r_human",
+  "name": "NK3 receptor",
+  "gene": "TACR3",
+  "accession": "P29371",
+  "family": "Tachykinin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 72.81
+ },
+ {
+  "entry": "trfr_human",
+  "name": "TRH1 receptor",
+  "gene": "TRHR",
+  "accession": "P34981",
+  "family": "Thyrotropin-releasing hormone receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 79.62
+ },
+ {
+  "entry": "ur2r_human",
+  "name": "UT receptor",
+  "gene": "UTS2R",
+  "accession": "Q9UKP6",
+  "family": "Urotensin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 76.25
+ },
+ {
+  "entry": "v1ar_human",
+  "name": "V1A receptor",
+  "gene": "AVPR1A",
+  "accession": "P37288",
+  "family": "Vasopressin and oxytocin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 73.38
+ },
+ {
+  "entry": "v1br_human",
+  "name": "V1B receptor",
+  "gene": "AVPR1B",
+  "accession": "P47901",
+  "family": "Vasopressin and oxytocin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 73.69
+ },
+ {
+  "entry": "v2r_human",
+  "name": "V2 receptor",
+  "gene": "AVPR2",
+  "accession": "P30518",
+  "family": "Vasopressin and oxytocin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 76.0
+ },
+ {
+  "entry": "oxyr_human",
+  "name": "OT receptor",
+  "gene": "OXTR",
+  "accession": "P30559",
+  "family": "Vasopressin and oxytocin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "A",
+  "mean_plddt": 78.62
+ },
+ {
+  "entry": "cml1_human",
+  "name": "chemerin receptor",
+  "gene": "CMKLR1",
+  "accession": "Q99788",
+  "family": "Chemerin receptor",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 79.0
+ },
+ {
+  "entry": "cml2_human",
+  "name": "chemerin receptor 2",
+  "gene": "CMKLR2",
+  "accession": "P46091",
+  "family": "Chemerin receptor",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 83.62
+ },
+ {
+  "entry": "ackr1_human",
+  "name": "ACKR1",
+  "gene": "ACKR1",
+  "accession": "Q16570",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 78.31
+ },
+ {
+  "entry": "ackr2_human",
+  "name": "ACKR2",
+  "gene": "ACKR2",
+  "accession": "O00590",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 80.38
+ },
+ {
+  "entry": "ackr3_human",
+  "name": "ACKR3",
+  "gene": "ACKR3",
+  "accession": "P25106",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 82.44
+ },
+ {
+  "entry": "ackr4_human",
+  "name": "ACKR4",
+  "gene": "ACKR4",
+  "accession": "Q9NPB9",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 81.69
+ },
+ {
+  "entry": "ccr1_human",
+  "name": "CCR1",
+  "gene": "CCR1",
+  "accession": "P32246",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 83.19
+ },
+ {
+  "entry": "ccr10_human",
+  "name": "CCR10",
+  "gene": "CCR10",
+  "accession": "P46092",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 76.81
+ },
+ {
+  "entry": "ccr2_human",
+  "name": "CCR2",
+  "gene": "CCR2",
+  "accession": "P41597",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 77.75
+ },
+ {
+  "entry": "ccr3_human",
+  "name": "CCR3",
+  "gene": "CCR3",
+  "accession": "P51677",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 83.44
+ },
+ {
+  "entry": "ccr4_human",
+  "name": "CCR4",
+  "gene": "CCR4",
+  "accession": "P51679",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 80.75
+ },
+ {
+  "entry": "ccr5_human",
+  "name": "CCR5",
+  "gene": "CCR5",
+  "accession": "P51681",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 85.38
+ },
+ {
+  "entry": "ccr6_human",
+  "name": "CCR6",
+  "gene": "CCR6",
+  "accession": "P51684",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 79.56
+ },
+ {
+  "entry": "ccr7_human",
+  "name": "CCR7",
+  "gene": "CCR7",
+  "accession": "P32248",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 78.38
+ },
+ {
+  "entry": "ccr8_human",
+  "name": "CCR8",
+  "gene": "CCR8",
+  "accession": "P51685",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 82.12
+ },
+ {
+  "entry": "ccr9_human",
+  "name": "CCR9",
+  "gene": "CCR9",
+  "accession": "P51686",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 83.44
+ },
+ {
+  "entry": "ccrl2_human",
+  "name": "CCRL2",
+  "gene": "CCRL2",
+  "accession": "O00421",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 77.81
+ },
+ {
+  "entry": "cx3c1_human",
+  "name": "CX3CR1",
+  "gene": "CX3CR1",
+  "accession": "P49238",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 80.5
+ },
+ {
+  "entry": "cxcr1_human",
+  "name": "CXCR1",
+  "gene": "CXCR1",
+  "accession": "P25024",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 78.06
+ },
+ {
+  "entry": "cxcr2_human",
+  "name": "CXCR2",
+  "gene": "CXCR2",
+  "accession": "P25025",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 79.56
+ },
+ {
+  "entry": "cxcr3_human",
+  "name": "CXCR3",
+  "gene": "CXCR3",
+  "accession": "P49682",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 80.56
+ },
+ {
+  "entry": "cxcr4_human",
+  "name": "CXCR4",
+  "gene": "CXCR4",
+  "accession": "P61073",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 82.25
+ },
+ {
+  "entry": "cxcr5_human",
+  "name": "CXCR5",
+  "gene": "CXCR5",
+  "accession": "P32302",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 81.12
+ },
+ {
+  "entry": "cxcr6_human",
+  "name": "CXCR6",
+  "gene": "CXCR6",
+  "accession": "O00574",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 82.12
+ },
+ {
+  "entry": "xcr1_human",
+  "name": "XCR1",
+  "gene": "XCR1",
+  "accession": "P46094",
+  "family": "Chemokine receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 84.94
+ },
+ {
+  "entry": "fshr_human",
+  "name": "FSH receptor",
+  "gene": "FSHR",
+  "accession": "P23945",
+  "family": "Glycoprotein hormone receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 81.75
+ },
+ {
+  "entry": "lshr_human",
+  "name": "LH receptor",
+  "gene": "LHCGR",
+  "accession": "P22888",
+  "family": "Glycoprotein hormone receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 80.12
+ },
+ {
+  "entry": "tshr_human",
+  "name": "TSH receptor",
+  "gene": "TSHR",
+  "accession": "P16473",
+  "family": "Glycoprotein hormone receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 74.0
+ },
+ {
+  "entry": "pkr1_human",
+  "name": "PKR1",
+  "gene": "PROKR1",
+  "accession": "Q8TCW9",
+  "family": "Prokineticin receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 77.25
+ },
+ {
+  "entry": "pkr2_human",
+  "name": "PKR2",
+  "gene": "PROKR2",
+  "accession": "Q8NFJ6",
+  "family": "Prokineticin receptors",
+  "ligand_type": "Protein receptors",
+  "class": "A",
+  "mean_plddt": 78.31
+ },
+ {
+  "entry": "gp132_human",
+  "name": "GPR132",
+  "gene": "GPR132",
+  "accession": "Q9UNW8",
+  "family": "Proton receptors",
+  "ligand_type": "Proton receptors",
+  "class": "A",
+  "mean_plddt": 79.5
+ },
+ {
+  "entry": "gpr4_human",
+  "name": "GPR4",
+  "gene": "GPR4",
+  "accession": "P46093",
+  "family": "Proton receptors",
+  "ligand_type": "Proton receptors",
+  "class": "A",
+  "mean_plddt": 80.69
+ },
+ {
+  "entry": "gpr65_human",
+  "name": "GPR65",
+  "gene": "GPR65",
+  "accession": "Q8IYL9",
+  "family": "Proton receptors",
+  "ligand_type": "Proton receptors",
+  "class": "A",
+  "mean_plddt": 82.62
+ },
+ {
+  "entry": "gpr68_human",
+  "name": "GPR68",
+  "gene": "GPR68",
+  "accession": "Q15743",
+  "family": "Proton receptors",
+  "ligand_type": "Proton receptors",
+  "class": "A",
+  "mean_plddt": 80.44
+ },
+ {
+  "entry": "opsr_human",
+  "name": "OPN1LW",
+  "gene": "OPN1LW",
+  "accession": "P04000",
+  "family": "Opsin (sight) receptors",
+  "ligand_type": "Retinal receptors",
+  "class": "A",
+  "mean_plddt": 82.19
+ },
+ {
+  "entry": "opsg_human",
+  "name": "OPN1MW",
+  "gene": "OPN1MW",
+  "accession": "P04001",
+  "family": "Opsin (sight) receptors",
+  "ligand_type": "Retinal receptors",
+  "class": "A",
+  "mean_plddt": 82.94
+ },
+ {
+  "entry": "opsb_human",
+  "name": "OPN1SW",
+  "gene": "OPN1SW",
+  "accession": "P03999",
+  "family": "Opsin (sight) receptors",
+  "ligand_type": "Retinal receptors",
+  "class": "A",
+  "mean_plddt": 86.94
+ },
+ {
+  "entry": "opn3_human",
+  "name": "OPN3",
+  "gene": "OPN3",
+  "accession": "Q9H1Y3",
+  "family": "Opsin (sight) receptors",
+  "ligand_type": "Retinal receptors",
+  "class": "A",
+  "mean_plddt": 79.81
+ },
+ {
+  "entry": "opn4_human",
+  "name": "OPN4",
+  "gene": "OPN4",
+  "accession": "Q9UHM6",
+  "family": "Opsin (sight) receptors",
+  "ligand_type": "Retinal receptors",
+  "class": "A",
+  "mean_plddt": 74.38
+ },
+ {
+  "entry": "opn5_human",
+  "name": "OPN5",
+  "gene": "OPN5",
+  "accession": "Q6U736",
+  "family": "Opsin (sight) receptors",
+  "ligand_type": "Retinal receptors",
+  "class": "A",
+  "mean_plddt": 83.94
+ },
+ {
+  "entry": "opsd_human",
+  "name": "Rhodopsin",
+  "gene": "RHO",
+  "accession": "P08100",
+  "family": "Opsin (sight) receptors",
+  "ligand_type": "Retinal receptors",
+  "class": "A",
+  "mean_plddt": 88.75
+ },
+ {
+  "entry": "opsx_human",
+  "name": "RRH",
+  "gene": "RRH",
+  "accession": "O14718",
+  "family": "Opsin (sight) receptors",
+  "ligand_type": "Retinal receptors",
+  "class": "A",
+  "mean_plddt": 85.75
+ },
+ {
+  "entry": "gpbar_human",
+  "name": "GPBA receptor",
+  "gene": "GPBAR1",
+  "accession": "Q8TDU6",
+  "family": "Bile acid receptors",
+  "ligand_type": "Steroid receptors",
+  "class": "A",
+  "mean_plddt": 80.44
+ },
+ {
+  "entry": "gper1_human",
+  "name": "GPER",
+  "gene": "GPER1",
+  "accession": "Q99527",
+  "family": "Estrogen (G protein-coupled) receptors",
+  "ligand_type": "Steroid receptors",
+  "class": "A",
+  "mean_plddt": 79.12
+ },
+ {
+  "entry": "calcr_human",
+  "name": "CT receptor",
+  "gene": "CALCR",
+  "accession": "P30988",
+  "family": "Calcitonin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 78.69
+ },
+ {
+  "entry": "calrl_human",
+  "name": "calcitonin receptor-like receptor",
+  "gene": "CALCRL",
+  "accession": "Q16602",
+  "family": "Calcitonin receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 78.69
+ },
+ {
+  "entry": "crhr1_human",
+  "name": "CRF1 receptor",
+  "gene": "CRHR1",
+  "accession": "P34998-2",
+  "family": "Corticotropin-releasing factor receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 73.81
+ },
+ {
+  "entry": "crhr2_human",
+  "name": "CRF2 receptor",
+  "gene": "CRHR2",
+  "accession": "Q13324",
+  "family": "Corticotropin-releasing factor receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 78.38
+ },
+ {
+  "entry": "glr_human",
+  "name": "glucagon receptor",
+  "gene": "GCGR",
+  "accession": "P47871",
+  "family": "Glucagon receptor family",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 81.88
+ },
+ {
+  "entry": "ghrhr_human",
+  "name": "GHRH receptor",
+  "gene": "GHRHR",
+  "accession": "Q02643",
+  "family": "Glucagon receptor family",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 75.81
+ },
+ {
+  "entry": "gipr_human",
+  "name": "GIP receptor",
+  "gene": "GIPR",
+  "accession": "P48546",
+  "family": "Glucagon receptor family",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 78.5
+ },
+ {
+  "entry": "glp1r_human",
+  "name": "GLP-1 receptor",
+  "gene": "GLP1R",
+  "accession": "P43220",
+  "family": "Glucagon receptor family",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 81.5
+ },
+ {
+  "entry": "glp2r_human",
+  "name": "GLP-2 receptor",
+  "gene": "GLP2R",
+  "accession": "O95838",
+  "family": "Glucagon receptor family",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 73.44
+ },
+ {
+  "entry": "sctr_human",
+  "name": "secretin receptor",
+  "gene": "SCTR",
+  "accession": "P47872",
+  "family": "Glucagon receptor family",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 76.56
+ },
+ {
+  "entry": "pth1r_human",
+  "name": "PTH1 receptor",
+  "gene": "PTH1R",
+  "accession": "Q03431",
+  "family": "Parathyroid hormone receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 70.94
+ },
+ {
+  "entry": "pth2r_human",
+  "name": "PTH2 receptor",
+  "gene": "PTH2R",
+  "accession": "P49190",
+  "family": "Parathyroid hormone receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 71.62
+ },
+ {
+  "entry": "pacr_human",
+  "name": "PAC1 receptor",
+  "gene": "ADCYAP1R1",
+  "accession": "P41586",
+  "family": "VIP and PACAP receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 75.5
+ },
+ {
+  "entry": "vipr1_human",
+  "name": "VPAC1 receptor",
+  "gene": "VIPR1",
+  "accession": "P32241",
+  "family": "VIP and PACAP receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 76.0
+ },
+ {
+  "entry": "vipr2_human",
+  "name": "VPAC2 receptor",
+  "gene": "VIPR2",
+  "accession": "P41587",
+  "family": "VIP and PACAP receptors",
+  "ligand_type": "Peptide receptors",
+  "class": "B1",
+  "mean_plddt": 74.31
+ },
+ {
+  "entry": "agra1_human",
+  "name": "ADGRA1",
+  "gene": "ADGRA1",
+  "accession": "Q86SQ6",
+  "family": "ADGRA",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 63.53
+ },
+ {
+  "entry": "agra2_human",
+  "name": "ADGRA2",
+  "gene": "ADGRA2",
+  "accession": "Q96PE1",
+  "family": "ADGRA",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 69.12
+ },
+ {
+  "entry": "agra3_human",
+  "name": "ADGRA3",
+  "gene": "ADGRA3",
+  "accession": "Q8IWK6",
+  "family": "ADGRA",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 69.56
+ },
+ {
+  "entry": "agrb1_human",
+  "name": "ADGRB1",
+  "gene": "ADGRB1",
+  "accession": "O14514",
+  "family": "ADGRB",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 62.25
+ },
+ {
+  "entry": "agrb2_human",
+  "name": "ADGRB2",
+  "gene": "ADGRB2",
+  "accession": "O60241",
+  "family": "ADGRB",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 61.38
+ },
+ {
+  "entry": "agrb3_human",
+  "name": "ADGRB3",
+  "gene": "ADGRB3",
+  "accession": "O60242",
+  "family": "ADGRB",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 63.75
+ },
+ {
+  "entry": "agrd1_human",
+  "name": "ADGRD1",
+  "gene": "ADGRD1",
+  "accession": "Q6QNK2",
+  "family": "ADGRD",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 71.94
+ },
+ {
+  "entry": "agrd2_human",
+  "name": "ADGRD2",
+  "gene": "ADGRD2",
+  "accession": "Q7Z7M1",
+  "family": "ADGRD",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 72.75
+ },
+ {
+  "entry": "agre1_human",
+  "name": "ADGRE1",
+  "gene": "ADGRE1",
+  "accession": "Q14246",
+  "family": "ADGRE",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 76.69
+ },
+ {
+  "entry": "agre2_human",
+  "name": "ADGRE2",
+  "gene": "ADGRE2",
+  "accession": "Q9UHX3",
+  "family": "ADGRE",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 79.31
+ },
+ {
+  "entry": "agre3_human",
+  "name": "ADGRE3",
+  "gene": "ADGRE3",
+  "accession": "Q9BY15",
+  "family": "ADGRE",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 80.56
+ },
+ {
+  "entry": "agre4_human",
+  "name": "ADGRE4P",
+  "gene": "ADGRE4P",
+  "accession": "Q86SQ3",
+  "family": "ADGRE",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 75.81
+ },
+ {
+  "entry": "agre5_human",
+  "name": "ADGRE5",
+  "gene": "ADGRE5",
+  "accession": "P48960",
+  "family": "ADGRE",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 78.12
+ },
+ {
+  "entry": "agrf1_human",
+  "name": "ADGRF1",
+  "gene": "ADGRF1",
+  "accession": "Q5T601",
+  "family": "ADGRF",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 77.06
+ },
+ {
+  "entry": "agrf2_human",
+  "name": "ADGRF2",
+  "gene": "ADGRF2",
+  "accession": "Q8IZF7",
+  "family": "ADGRF",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 71.5
+ },
+ {
+  "entry": "agrf3_human",
+  "name": "ADGRF3",
+  "gene": "ADGRF3",
+  "accession": "Q8IZF5",
+  "family": "ADGRF",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 73.69
+ },
+ {
+  "entry": "agrf4_human",
+  "name": "ADGRF4",
+  "gene": "ADGRF4",
+  "accession": "Q8IZF3",
+  "family": "ADGRF",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 78.56
+ },
+ {
+  "entry": "agrf5_human",
+  "name": "ADGRF5",
+  "gene": "ADGRF5",
+  "accession": "Q8IZF2",
+  "family": "ADGRF",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 74.5
+ },
+ {
+  "entry": "agrg1_human",
+  "name": "ADGRG1",
+  "gene": "ADGRG1",
+  "accession": "Q9Y653",
+  "family": "ADGRG",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 77.88
+ },
+ {
+  "entry": "agrg2_human",
+  "name": "ADGRG2",
+  "gene": "ADGRG2",
+  "accession": "Q8IZP9",
+  "family": "ADGRG",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 62.06
+ },
+ {
+  "entry": "agrg3_human",
+  "name": "ADGRG3",
+  "gene": "ADGRG3",
+  "accession": "Q86Y34",
+  "family": "ADGRG",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 80.12
+ },
+ {
+  "entry": "agrg5_human",
+  "name": "ADGRG5",
+  "gene": "ADGRG5",
+  "accession": "Q8IZF4",
+  "family": "ADGRG",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 82.38
+ },
+ {
+  "entry": "agrg6_human",
+  "name": "ADGRG6",
+  "gene": "ADGRG6",
+  "accession": "Q86SQ4",
+  "family": "ADGRG",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 73.75
+ },
+ {
+  "entry": "agrg7_human",
+  "name": "ADGRG7",
+  "gene": "ADGRG7",
+  "accession": "Q96K78",
+  "family": "ADGRG",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 80.44
+ },
+ {
+  "entry": "agrl1_human",
+  "name": "ADGRL1",
+  "gene": "ADGRL1",
+  "accession": "O94910",
+  "family": "ADGRL",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 69.62
+ },
+ {
+  "entry": "agrl2_human",
+  "name": "ADGRL2",
+  "gene": "ADGRL2",
+  "accession": "O95490",
+  "family": "ADGRL",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 69.0
+ },
+ {
+  "entry": "agrl3_human",
+  "name": "ADGRL3",
+  "gene": "ADGRL3",
+  "accession": "Q9HAR2",
+  "family": "ADGRL",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 69.38
+ },
+ {
+  "entry": "agrl4_human",
+  "name": "ADGRL4",
+  "gene": "ADGRL4",
+  "accession": "Q9HBW9",
+  "family": "ADGRL",
+  "ligand_type": "Adhesion receptors",
+  "class": "B2",
+  "mean_plddt": 81.0
+ },
+ {
+  "entry": "gabr1_human",
+  "name": "GABAB1",
+  "gene": "GABBR1",
+  "accession": "Q9UBS5",
+  "family": "GABA<sub>B</sub> receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 84.19
+ },
+ {
+  "entry": "gabr2_human",
+  "name": "GABAB2",
+  "gene": "GABBR2",
+  "accession": "O75899",
+  "family": "GABA<sub>B</sub> receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 77.75
+ },
+ {
+  "entry": "grm1_human",
+  "name": "mGlu1 receptor",
+  "gene": "GRM1",
+  "accession": "Q13255",
+  "family": "Metabotropic glutamate receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 70.94
+ },
+ {
+  "entry": "grm2_human",
+  "name": "mGlu2 receptor",
+  "gene": "GRM2",
+  "accession": "Q14416",
+  "family": "Metabotropic glutamate receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 85.69
+ },
+ {
+  "entry": "grm3_human",
+  "name": "mGlu3 receptor",
+  "gene": "GRM3",
+  "accession": "Q14832",
+  "family": "Metabotropic glutamate receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 85.31
+ },
+ {
+  "entry": "grm4_human",
+  "name": "mGlu4 receptor",
+  "gene": "GRM4",
+  "accession": "Q14833",
+  "family": "Metabotropic glutamate receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 83.69
+ },
+ {
+  "entry": "grm5_human",
+  "name": "mGlu5 receptor",
+  "gene": "GRM5",
+  "accession": "P41594",
+  "family": "Metabotropic glutamate receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 71.06
+ },
+ {
+  "entry": "grm6_human",
+  "name": "mGlu6 receptor",
+  "gene": "GRM6",
+  "accession": "O15303",
+  "family": "Metabotropic glutamate receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 85.62
+ },
+ {
+  "entry": "grm7_human",
+  "name": "mGlu7 receptor",
+  "gene": "GRM7",
+  "accession": "Q14831",
+  "family": "Metabotropic glutamate receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 84.38
+ },
+ {
+  "entry": "grm8_human",
+  "name": "mGlu8 receptor",
+  "gene": "GRM8",
+  "accession": "O00222",
+  "family": "Metabotropic glutamate receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 84.06
+ },
+ {
+  "entry": "mglyr_human",
+  "name": "MGLYR",
+  "gene": "GPR158",
+  "accession": "Q5T848",
+  "family": "Metabotropic glycine receptors",
+  "ligand_type": "Amino acid receptors",
+  "class": "C",
+  "mean_plddt": 58.03
+ },
+ {
+  "entry": "casr_human",
+  "name": "CaS receptor",
+  "gene": "CASR",
+  "accession": "P41180",
+  "family": "Calcium-sensing receptors",
+  "ligand_type": "Ion receptors",
+  "class": "C",
+  "mean_plddt": 75.69
+ },
+ {
+  "entry": "gp156_human",
+  "name": "GPR156",
+  "gene": "GPR156",
+  "accession": "Q8NFN8",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "C",
+  "mean_plddt": 55.47
+ },
+ {
+  "entry": "gp179_human",
+  "name": "GPR179",
+  "gene": "GPR179",
+  "accession": "Q6PRD1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "C",
+  "mean_plddt": 42.78
+ },
+ {
+  "entry": "rai3_human",
+  "name": "GPRC5A",
+  "gene": "GPRC5A",
+  "accession": "Q8NFJ5",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "C",
+  "mean_plddt": 77.94
+ },
+ {
+  "entry": "gpc5b_human",
+  "name": "GPRC5B",
+  "gene": "GPRC5B",
+  "accession": "Q9NZH0",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "C",
+  "mean_plddt": 74.38
+ },
+ {
+  "entry": "gpc5c_human",
+  "name": "GPRC5C",
+  "gene": "GPRC5C",
+  "accession": "Q9NQ84",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "C",
+  "mean_plddt": 70.81
+ },
+ {
+  "entry": "gpc5d_human",
+  "name": "GPRC5D",
+  "gene": "GPRC5D",
+  "accession": "Q9NZD1",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "C",
+  "mean_plddt": 76.06
+ },
+ {
+  "entry": "gpc6a_human",
+  "name": "GPRC6 receptor",
+  "gene": "GPRC6A",
+  "accession": "Q5T6X5",
+  "family": "Orphan receptors",
+  "ligand_type": "Orphan receptors",
+  "class": "C",
+  "mean_plddt": 84.06
+ },
+ {
+  "entry": "ts1r1_human",
+  "name": "TAS1R1",
+  "gene": "TAS1R1",
+  "accession": "Q7RTX1",
+  "family": "Taste 1 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "C",
+  "mean_plddt": 88.38
+ },
+ {
+  "entry": "ts1r2_human",
+  "name": "TAS1R2",
+  "gene": "TAS1R2",
+  "accession": "Q8TE23",
+  "family": "Taste 1 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "C",
+  "mean_plddt": 86.0
+ },
+ {
+  "entry": "ts1r3_human",
+  "name": "TAS1R3",
+  "gene": "TAS1R3",
+  "accession": "Q7RTX0",
+  "family": "Taste 1 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "C",
+  "mean_plddt": 87.06
+ },
+ {
+  "entry": "smo_human",
+  "name": "SMO",
+  "gene": "SMO",
+  "accession": "Q99835",
+  "family": "Oxysterol receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 72.75
+ },
+ {
+  "entry": "fzd1_human",
+  "name": "FZD1",
+  "gene": "FZD1",
+  "accession": "Q9UP38",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 78.19
+ },
+ {
+  "entry": "fzd10_human",
+  "name": "FZD10",
+  "gene": "FZD10",
+  "accession": "Q9ULW2",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 80.62
+ },
+ {
+  "entry": "fzd2_human",
+  "name": "FZD2",
+  "gene": "FZD2",
+  "accession": "Q14332",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 83.44
+ },
+ {
+  "entry": "fzd3_human",
+  "name": "FZD3",
+  "gene": "FZD3",
+  "accession": "Q9NPG1",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 75.5
+ },
+ {
+  "entry": "fzd4_human",
+  "name": "FZD4",
+  "gene": "FZD4",
+  "accession": "Q9ULV1",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 84.31
+ },
+ {
+  "entry": "fzd5_human",
+  "name": "FZD5",
+  "gene": "FZD5",
+  "accession": "Q13467",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 81.62
+ },
+ {
+  "entry": "fzd6_human",
+  "name": "FZD6",
+  "gene": "FZD6",
+  "accession": "O60353",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 72.38
+ },
+ {
+  "entry": "fzd7_human",
+  "name": "FZD7",
+  "gene": "FZD7",
+  "accession": "O75084",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 83.19
+ },
+ {
+  "entry": "fzd8_human",
+  "name": "FZD8",
+  "gene": "FZD8",
+  "accession": "Q9H461",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 74.5
+ },
+ {
+  "entry": "fzd9_human",
+  "name": "FZD9",
+  "gene": "FZD9",
+  "accession": "O00144",
+  "family": "WNT receptors",
+  "ligand_type": "Protein receptors",
+  "class": "F",
+  "mean_plddt": 80.94
+ },
+ {
+  "entry": "ta2r1_human",
+  "name": "TAS2R1",
+  "gene": "TAS2R1",
+  "accession": "Q9NYW7",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 80.06
+ },
+ {
+  "entry": "t2r10_human",
+  "name": "TAS2R10",
+  "gene": "TAS2R10",
+  "accession": "Q9NYW0",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 87.19
+ },
+ {
+  "entry": "t2r13_human",
+  "name": "TAS2R13",
+  "gene": "TAS2R13",
+  "accession": "Q9NYV9",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 88.12
+ },
+ {
+  "entry": "t2r14_human",
+  "name": "TAS2R14",
+  "gene": "TAS2R14",
+  "accession": "Q9NYV8",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 81.75
+ },
+ {
+  "entry": "t2r16_human",
+  "name": "TAS2R16",
+  "gene": "TAS2R16",
+  "accession": "Q9NYV7",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 82.5
+ },
+ {
+  "entry": "t2r19_human",
+  "name": "TAS2R19",
+  "gene": "TAS2R19",
+  "accession": "P59542",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 84.94
+ },
+ {
+  "entry": "t2r20_human",
+  "name": "TAS2R20",
+  "gene": "TAS2R20",
+  "accession": "P59543",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 87.12
+ },
+ {
+  "entry": "ta2r3_human",
+  "name": "TAS2R3",
+  "gene": "TAS2R3",
+  "accession": "Q9NYW6",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 87.0
+ },
+ {
+  "entry": "t2r30_human",
+  "name": "TAS2R30",
+  "gene": "TAS2R30",
+  "accession": "P59541",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 85.38
+ },
+ {
+  "entry": "t2r31_human",
+  "name": "TAS2R31",
+  "gene": "TAS2R31",
+  "accession": "P59538",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 87.62
+ },
+ {
+  "entry": "t2r38_human",
+  "name": "TAS2R38",
+  "gene": "TAS2R38",
+  "accession": "P59533",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 82.25
+ },
+ {
+  "entry": "t2r39_human",
+  "name": "TAS2R39",
+  "gene": "TAS2R39",
+  "accession": "P59534",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 81.25
+ },
+ {
+  "entry": "ta2r4_human",
+  "name": "TAS2R4",
+  "gene": "TAS2R4",
+  "accession": "Q9NYW5",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 84.81
+ },
+ {
+  "entry": "t2r40_human",
+  "name": "TAS2R40",
+  "gene": "TAS2R40",
+  "accession": "P59535",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 81.06
+ },
+ {
+  "entry": "t2r41_human",
+  "name": "TAS2R41",
+  "gene": "TAS2R41",
+  "accession": "P59536",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 85.25
+ },
+ {
+  "entry": "t2r42_human",
+  "name": "TAS2R42",
+  "gene": "TAS2R42",
+  "accession": "Q7RTR8",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 80.56
+ },
+ {
+  "entry": "t2r43_human",
+  "name": "TAS2R43",
+  "gene": "TAS2R43",
+  "accession": "P59537",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 86.75
+ },
+ {
+  "entry": "t2r45_human",
+  "name": "TAS2R45",
+  "gene": "TAS2R45",
+  "accession": "P59539",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 86.5
+ },
+ {
+  "entry": "t2r46_human",
+  "name": "TAS2R46",
+  "gene": "TAS2R46",
+  "accession": "P59540",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 86.06
+ },
+ {
+  "entry": "ta2r5_human",
+  "name": "TAS2R5",
+  "gene": "TAS2R5",
+  "accession": "Q9NYW4",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 80.12
+ },
+ {
+  "entry": "t2r50_human",
+  "name": "TAS2R50",
+  "gene": "TAS2R50",
+  "accession": "P59544",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 85.06
+ },
+ {
+  "entry": "t2r60_human",
+  "name": "TAS2R60",
+  "gene": "TAS2R60",
+  "accession": "P59551",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 77.88
+ },
+ {
+  "entry": "ta2r7_human",
+  "name": "TAS2R7",
+  "gene": "TAS2R7",
+  "accession": "Q9NYW3",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 84.81
+ },
+ {
+  "entry": "ta2r8_human",
+  "name": "TAS2R8",
+  "gene": "TAS2R8",
+  "accession": "Q9NYW2",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 81.81
+ },
+ {
+  "entry": "ta2r9_human",
+  "name": "TAS2R9",
+  "gene": "TAS2R9",
+  "accession": "Q9NYW1",
+  "family": "Taste 2 receptors",
+  "ligand_type": "Tastant receptors",
+  "class": "T2",
+  "mean_plddt": 82.81
+ }
+]

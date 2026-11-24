@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GPCR Snake Plot</title>
+  <link rel="stylesheet" href="vendor/molstar.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <section id="index-view" class="index-view" aria-label="All receptors">
+    <div class="index-head">
+      <h1>Human GPCR snake plots</h1>
+      <p class="meta" id="index-summary"></p>
+      <input id="search" type="search" placeholder="Search by gene, receptor name, UniProt name or family"
+             autocomplete="off" aria-label="Search receptors">
+    </div>
+    <div id="index-list" class="index-list"></div>
+  </section>
+
+  <div id="receptor-view">
+  <header class="page-header">
+    <nav class="crumbs"><a href="#" id="back-link">All receptors</a> <span id="crumb-path"></span></nav>
+    <div class="title-row">
+      <h1 id="receptor-name">Loading…</h1>
+      <span id="receptor-gene" class="gene"></span>
+    </div>
+    <p id="receptor-meta" class="meta"></p>
+  </header>
+
+  <main class="layout">
+    <section class="panel plot-panel" aria-label="Snake plot">
+      <div class="toolbar" role="toolbar">
+        <div class="group" data-control="mode">
+          <span class="group-label">View</span>
+          <button data-value="single" class="on">Single</button>
+          <button data-value="side">Side by side</button>
+          <button data-value="overlay">Overlay</button>
+        </div>
+        <div class="group compare-only">
+          <label class="group-label" for="compare-with">with</label>
+          <select id="compare-with"></select>
+        </div>
+        <div class="group" data-control="color">
+          <span class="group-label">Colour</span>
+          <button data-value="segment" class="on">Segment</button>
+          <button data-value="plddt">pLDDT</button>
+          <button data-value="hydro" title="Kyte-Doolittle hydrophobicity">Hydrophobicity</button>
+          <button data-value="charge">Charge</button>
+          <button data-value="type">Residue type</button>
+          <button data-value="compare" class="compare-only">Compare</button>
+        </div>
+        <div class="group motif-group" id="motif-group">
+          <span class="group-label">Motifs</span>
+        </div>
+        <div class="group" data-control="label">
+          <span class="group-label">Label</span>
+          <button data-value="aa" class="on">Residue</button>
+          <button data-value="seq">Number</button>
+          <button data-value="generic">Generic</button>
+        </div>
+        <div class="group export-group">
+          <span class="group-label">Export</span>
+          <button id="export-svg" title="Save the plot as an SVG file">SVG</button>
+          <button id="export-png" title="Save the plot as a PNG image">PNG</button>
+          <button id="export-list" title="Save the highlighted and motif residues as a CSV table">List</button>
+        </div>
+      </div>
+      <form class="highlight-bar" id="highlight-form" autocomplete="off">
+        <label class="group-label" for="highlight-input">Highlight</label>
+        <input id="highlight-input" type="text" spellcheck="false"
+          placeholder="e.g. 113, 3x50, 6x48-6x52, 290-295, ECL2">
+        <input id="highlight-color" type="color" value="#e6375a" title="Highlight colour">
+        <button type="submit">Add</button>
+        <button type="button" id="highlight-clear">Clear all</button>
+        <span id="highlight-status" class="highlight-status" role="status"></span>
+        <div id="highlight-chips" class="chips"></div>
+      </form>
+      <div class="plots">
+        <figure class="plot-wrap">
+          <figcaption id="caption-a" class="caption"></figcaption>
+          <svg id="snakeplot" role="img" aria-label="Snake plot of the receptor"></svg>
+        </figure>
+        <figure class="plot-wrap side-only">
+          <figcaption id="caption-b" class="caption"></figcaption>
+          <svg id="snakeplot-b" role="img" aria-label="Snake plot of the comparison receptor"></svg>
+        </figure>
+      </div>
+      <div id="legend" class="legend"></div>
+      <p class="hint">Hover a residue for details. Click it to show it in 3D. Click a grey bead to expand a long loop.</p>
+      <p class="hint" id="template-note"></p>
+    </section>
+
+    <section class="panel viewer-panel" aria-label="3D structure">
+      <div class="viewer-head">
+        <span id="model-label">AlphaFold model</span>
+        <span id="selection-label" class="selection"></span>
+      </div>
+      <div id="viewer3d"></div>
+    </section>
+  </main>
+  </div>
+
+  <footer class="credits">
+    Residue numbering and segments from <a href="https://gpcrdb.org" target="_blank" rel="noopener">GPCRdb</a>.
+    Structure from <a href="https://alphafold.ebi.ac.uk" target="_blank" rel="noopener">AlphaFold DB</a> (CC BY 4.0).
+    3D viewer: <a href="https://molstar.org" target="_blank" rel="noopener">Mol*</a>.
+  </footer>
+
+  <div id="tooltip" class="tooltip" hidden></div>
+
+  <script src="vendor/d3.min.js"></script>
+  <script src="vendor/molstar.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
